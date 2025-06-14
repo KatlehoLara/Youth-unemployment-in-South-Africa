@@ -8,6 +8,7 @@ This project explores the relationship between education and youth unemployment 
 - Provide insights for improving employment policy outcomes
 ## Tools Used
 - **Stata** for statistical modeling
+- **R** for statistical modeling
 - **Excel** for summary statistics
 - **GitHub** for version control and portfolio
 ## Files in This Repo
